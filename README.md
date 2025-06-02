@@ -1,3 +1,7 @@
+# What's this about
+
+Calculate the Damage Per Round of different character for the tabletop game D&D 5th edition.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
